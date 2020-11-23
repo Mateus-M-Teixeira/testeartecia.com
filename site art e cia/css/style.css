@@ -1,0 +1,51 @@
+nav{
+    background-color: white;
+    
+}
+h1{
+    font-family: 'Lobster', cursive;
+    color: #daa520;
+}
+li{
+    display: inline-block;
+    text-align: center;
+   font-size: 10mm;
+}
+    body{
+      background-color: #F7F4F2;  
+
+    }
+    .logo{
+        height: 71mm;
+        right: 60mm;
+        text-align: center;
+    
+    }
+    .menu{
+        height: 14mm;
+        right: 14mm
+        
+        
+        
+        
+    }
+    ul{
+        
+        text-align: center;
+    }
+    #segunda-lista{
+        display: none;
+    }
+    ul ul li{
+        display: inline;
+    }
+    button{
+        color: black;
+    }
+    a{
+        text-decoration: none;
+    }
+    button{
+        height: 71mm;
+        right: 60mm;
+    }
